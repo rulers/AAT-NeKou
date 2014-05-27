@@ -1,0 +1,46 @@
+---
+layout: default
+title: Aquvii ART THE TERMINAL | ね公
+---
+
+
+<div class="mod-spinner">
+</div>
+<!-- /.mod-spinner -->
+
+<script>
+$(function() {
+    var $spinner = $('.mod-spinner');
+
+
+
+        if (!NeKou.webglExperimental) {
+            alert('Unable to initialize WebGL. Your browser may not support it.');
+            return;
+        }
+
+        NeKou.init();
+
+        var ground = new NeKou.Ground();
+        var santa = new NeKou.Santa();
+        var ctrl = new NeKou.KeyInput(santa);
+
+        $.when(
+            wait(1000),
+            ground.load(),
+            santa.load()
+        ).done(function() {
+            // setupBoxes();
+            NeKou.play();
+            $spinner.addClass('mod-spinner--ready');
+        });
+
+        function wait(ms) {
+            var d = new $.Deferred();
+            setTimeout(function() {
+                d.resolve();
+            }, ms);
+            return d.promise();
+        }
+});
+</script>

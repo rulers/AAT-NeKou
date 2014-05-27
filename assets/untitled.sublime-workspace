@@ -1,0 +1,1773 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"pos:f	position:fixed"
+			],
+			[
+				"T",
+				"THREE"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mart",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"magin",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"co",
+				"col	color"
+			],
+			[
+				"footer",
+				"footer-navi"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"cone",
+				"connection"
+			],
+			[
+				"ca",
+				"Category"
+			],
+			[
+				"C",
+				"CuratorSchema"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"pas",
+				"password-confirm"
+			],
+			[
+				"req",
+				"req"
+			],
+			[
+				"seri",
+				"serializeUser"
+			],
+			[
+				"console",
+				"console.	console.log()"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"list",
+				"list:n	list-style-type:none"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"sto",
+				"storeName"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"e",
+				"error	.error()"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"res",
+				"reserve"
+			],
+			[
+				"cre",
+				"credit_card"
+			],
+			[
+				"map",
+				"map	map"
+			],
+			[
+				"sg",
+				"sg_q"
+			],
+			[
+				"sub",
+				"subgenre"
+			],
+			[
+				"su",
+				"subgenre"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"fr",
+				"free_entry"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"upda",
+				"update_sql"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"li",
+				"limit_count"
+			],
+			[
+				"limi",
+				"limit_count"
+			],
+			[
+				"limit",
+				"limit_count"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"con",
+				"console.	console.log()"
+			],
+			[
+				"ke",
+				"keyword"
+			],
+			[
+				"phone",
+				"phone_no"
+			],
+			[
+				"has",
+				"has_user_image"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"cou",
+				"coupon"
+			],
+			[
+				"coupo",
+				"couopon"
+			],
+			[
+				"prf",
+				"preventDefault"
+			],
+			[
+				"btn",
+				"btn"
+			],
+			[
+				"btn-de",
+				"btn-danger"
+			],
+			[
+				"sle",
+				"selected"
+			],
+			[
+				"fa",
+				"fax2"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"thro",
+				"throw"
+			],
+			[
+				"q",
+				"q"
+			],
+			[
+				"typ",
+				"typ	type=\"\""
+			],
+			[
+				"and",
+				"andrroid"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"vers",
+				"app_version"
+			],
+			[
+				"ver",
+				"app_version"
+			],
+			[
+				"account",
+				"account"
+			],
+			[
+				"An",
+				"AndroidAppVersions"
+			],
+			[
+				"reso",
+				"resource"
+			],
+			[
+				"ac",
+				"account"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"var",
+				"vars"
+			],
+			[
+				"pref",
+				"pref"
+			],
+			[
+				"men",
+				"main_genre"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"reg",
+				"reg_channel"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"fi",
+				"find	.find()"
+			],
+			[
+				"nam",
+				"nam	name=\"\""
+			],
+			[
+				"ty",
+				"typ	type=\"\""
+			],
+			[
+				"ad",
+				"address2"
+			],
+			[
+				"post",
+				"postal_code2"
+			],
+			[
+				"po",
+				"postal_code1"
+			],
+			[
+				"ph",
+				"phone2"
+			],
+			[
+				"phoe",
+				"phone2"
+			],
+			[
+				"fax",
+				"fax1"
+			],
+			[
+				"pho",
+				"phone3"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"input",
+				"input"
+			],
+			[
+				"Operato",
+				"OperatorSchema"
+			],
+			[
+				"col",
+				"col-sm-"
+			],
+			[
+				"クライアント向け",
+				"クライアント向けメッセージ一覧"
+			],
+			[
+				"a",
+				"a	a()"
+			],
+			[
+				"android_ve",
+				"android_version"
+			],
+			[
+				"ios",
+				"ios_versions"
+			],
+			[
+				"iOS",
+				"iOSAppVersion"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"tex",
+				"text-muted"
+			],
+			[
+				"andro",
+				"edit-android"
+			],
+			[
+				"sc",
+				"scr	script()"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"const",
+				"constructor	JS constructor pattern"
+			],
+			[
+				"m",
+				"me	module.exports"
+			],
+			[
+				"g",
+				"glyphicon"
+			],
+			[
+				"pae",
+				"page-header"
+			],
+			[
+				"fo",
+				"form-control"
+			],
+			[
+				"col-m",
+				"col-md-"
+			],
+			[
+				"tabl",
+				"table-hover"
+			],
+			[
+				"col-sm",
+				"col-sm-offset-"
+			],
+			[
+				"col-lg",
+				"col-lg-"
+			],
+			[
+				"pla",
+				"placeholder"
+			],
+			[
+				"td",
+				"tbody"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/ag/projects/RULERS/AAT-NeKou/app/_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 1506,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ag/projects/RULERS/AAT-NeKou/app/js/main.js",
+			"settings":
+			{
+				"buffer_size": 3831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ag/projects/RULERS/AAT-NeKou/.jekyll/models/rest.js",
+			"settings":
+			{
+				"buffer_size": 298776,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ag/projects/RULERS/AAT-NeKou/.jekyll/models/walk.js",
+			"settings":
+			{
+				"buffer_size": 2012290,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ag/projects/RULERS/AAT-NeKou/app/_scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 6239,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packege",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packagei",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ag/projects/RULERS/AAT-NeKou/app/_bower_components/stats.js/src/Stats.js",
+		"/Users/ag/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ag/projects/RULERS/AAT-NeKou/app/js/ashiname.js",
+		"/Users/ag/projects/RULERS/AAT-NeKou/app/_bower_components/three.js/.bower.json",
+		"/Users/ag/projects/RULERS/AAT-NeKou/app/_bower_components/three.js/three.js",
+		"/Users/ag/projects/RULERS/AAT-NeKou/app/_bower_components/jquery/test/data/headers.php",
+		"/Users/ag/projects/stk/html/stk-web/group/.jekyll/jekyll/update/yo-jekyllrb.html",
+		"/Users/ag/projects/stk/html/stk-web/group/.jekyll/ir/welcome-to-jekyll.html",
+		"/Users/ag/projects/stk/html/stk-web/group/.jekyll/ir/index.html",
+		"/Users/ag/projects/stk/html/stk-web/group/.jekyll/group/index.html",
+		"/Users/ag/projects/stk/html/stk-web/group/.jekyll/company/index.html",
+		"/Users/ag/projects/stk/html/stk-web/group/.jekyll/index.html",
+		"/Users/ag/projects/stk/html/stk-web/group/app/_layouts/company.html",
+		"/Users/ag/projects/stk/html/stk-web/group/app/_layouts/csr.html",
+		"/Users/ag/projects/stk/html/stk-web/group/app/_layouts/default.html",
+		"/Users/ag/projects/stk/html/stk-web/group/app/_layouts/group.html",
+		"/Users/ag/projects/stk/html/stk-web/group/app/_layouts/ir.html",
+		"/Users/ag/projects/stk/html/stk-web/group/dist/index.html",
+		"/Users/ag/projects/stk/html/stk-web/group/dist/company/index.html",
+		"/Users/ag/projects/stk/html/stk-web/group/dist/group/index.html",
+		"/Users/ag/projects/stk/html/stk-web/group/dist/ir/index.html",
+		"/Users/ag/projects/stk/html/stk-web/group/dist/ir/welcome-to-jekyll.html",
+		"/Users/ag/projects/stk/html/stk-web/group/app/company/index.html",
+		"/Users/ag/projects/stk/html/stk-web/group/app/_posts/2014-04-16-welcome-to-jekyll.md",
+		"/Users/ag/projects/stk/html/stk-web/yokoyama/.tmp/concat/css/main.css",
+		"/Users/ag/projects/stk/html/stk-web/yokoyama/.tmp/css/main.css",
+		"/Users/ag/projects/stk/html/stk-web/yokoyama/app/css/main.css",
+		"/Users/ag/projects/stk/html/stk-web/yokoyama/app/js/main.js",
+		"/Users/ag/projects/baloon/_src/api/config/local.js",
+		"/Users/ag/projects/baloon/_src/api/Gruntfile.js",
+		"/Users/ag/projects/baloon/_src/api/node_modules/grunt-contrib-clean/AUTHORS",
+		"/Users/ag/projects/baloon/_src/api/package.json",
+		"/Users/ag/projects/baloon/_src/api/node_modules/sails-disk/lib/adapter.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/views/index.ejs",
+		"/Users/ag/projects/baloon/_src/baloon-api/lib/index.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/node_modules/express/Readme.md",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/views/form.jade",
+		"/Users/ag/projects/baloon/_src/baloon-api/package.json",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/views/profile.jade",
+		"/Users/ag/projects/baloon/_src/baloon-api/node_modules/mysql/lib/protocol/sequences/ChangeUser.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/config/passport.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/views/login.jade",
+		"/Users/ag/projects/baloon/_src/baloon-api/config/default.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/node_modules/lockit/.idea/lockit.iml",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/views/include/script.jade",
+		"/Users/ag/projects/baloon/_src/baloon-api/Gruntfile.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/views/home/index.jade",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/models/article.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/models/product.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/controllers/product.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/lib/:: index.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/models/customer.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/models/story.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/models/promoter.js",
+		"/Users/ag/projects/baloon/_src/baloon-api/app/models/creator.js",
+		"/Users/ag/projects/baloon/_src/baloon-html/.jekyll/list.html",
+		"/Users/ag/projects/baloon/_src/baloon-html/app/_includes/scripts.html",
+		"/Users/ag/projects/baloon/_src/baloon-html/app/_bower_components/normalize-css/normalize.css",
+		"/Users/ag/projects/baloon/_src/baloon-html/app/_includes/footer.html",
+		"/Users/ag/projects/baloon/_src/baloon-html/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/lib/entities/decode.json",
+		"/Users/ag/Desktop/m_alter_search_spatial_index.sql",
+		"/Users/ag/.zshrc",
+		"/Users/ag/projects/mdd2014/_html/.jekyll/history.html",
+		"/Users/ag/projects/mdd2014/_html/app/_bower_components/OwlCarousel/owl-carousel/owl.carousel.js",
+		"/Users/ag/projects/mdd2014/_html/app/history.html",
+		"/Users/ag/projects/mdd2014/_html/app/js/plugins.js",
+		"/Users/ag/projects/mdd2014/_html/Gruntfile.js",
+		"/Users/ag/projects/mdd2014/_html/bower.json",
+		"/Users/ag/projects/mdd2014/_html/.bowerrc",
+		"/Users/ag/projects/mdd2014/_html/.sass-cache/83278e54a45a6bfa16a96fa232c470dc2d6b518d/main.scssc",
+		"/Users/ag/projects/mdd2014/node_modules/spotify/lib/spotify/Spotify.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-store-search/config/sub_genre.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-store-search/config/routes.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-store-search/config/express.js",
+		"/private/etc/hosts",
+		"/Users/ag/projects/misecolle/_src/misecolle-store-search/app/views/result.jade",
+		"/Users/ag/projects/pressroom/_src/pressroom/app/_layouts/default.html",
+		"/Users/ag/projects/misecolle/_src/api-server/views/search.jade",
+		"/Users/ag/projects/misecolle/_src/api-server/resources/misecolle.js",
+		"/Users/ag/projects/misecolle/_src/api-server/resources/store_detail.js",
+		"/Users/ag/projects/log.rulers.jp/app/js/main.js",
+		"/Users/ag/projects/pressroom/_src/pressroom/app/_posts/2014-02-08-Vol.1.md",
+		"/Users/ag/projects/pressroom/_src/pressroom/.sass-cache/7d632d4f81655fc4649b2d644f2d2638c9196956/main.scssc",
+		"/Users/ag/projects/pressroom/_src/pressroom/_config.yml",
+		"/Users/ag/projects/pressroom/_src/pressroom/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/shelljs/test/config.js",
+		"/Users/ag/projects/pressroom/_src/pressroom/app/_layouts/page.html",
+		"/Users/ag/projects/pressroom/_src/pressroom/app/_layouts/exhibition.html",
+		"/Users/ag/projects/pressroom/_src/pressroom/.tmp/css/main.css",
+		"/Users/ag/projects/pressroom/_src/pressroom/app/index.html",
+		"/Users/ag/projects/pressroom/_src/pressroom/app/css/main.css",
+		"/Users/ag/projects/pressroom/_src/pressroom/app/js/main.js",
+		"/Users/ag/projects/pressroom/_src/pressroom/app/_scss/main.scss",
+		"/Users/ag/projects/pressroom/_src/pressroom/app/_bower_components/normalize-css/normalize.css",
+		"/Users/ag/projects/pressroom/_src/app/_layouts/post.html",
+		"/Users/ag/projects/pressroom/_src/app/index.html",
+		"/Users/ag/projects/pressroom/_src/app/_posts/2014-02-08-yo-jekyllrb.md",
+		"/Users/ag/projects/pressroom/_src/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/shelljs/test/config.js",
+		"/Users/ag/projects/pressroom/_src/_config.yml",
+		"/Users/ag/projects/misecolle/_src/api-server/routes/index.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-store-search/config/default.json",
+		"/Users/ag/projects/misecolle/_src/misecolle-store-search/config/config.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-store-search/config/default.js",
+		"/Users/ag/projects/rulers.jp/node_modules/grunt/node_modules/js-yaml/HISTORY.md",
+		"/Users/ag/projects/rulers.jp/app/humans.txt",
+		"/Users/ag/projects/rulers.jp/app/crossdomain.xml",
+		"/Users/ag/projects/rulers.jp/app/apple-touch-icon-precomposed.png",
+		"/Users/ag/projects/rulers.jp/app/.htaccess",
+		"/Users/ag/public_coupon_categories.sql",
+		"/Users/ag/projects/misecolle/_src/api-server/package.json",
+		"/Users/ag/projects/misecolle/_src/api-server/Gruntfile.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/public/js/misecolle-admin.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/models/coupon.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/package.json",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/config/config.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/node_modules/mysql/lib/protocol/sequences/ChangeUser.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/models/for_user_message.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/views/layout.jade",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/controllers/main_client/index.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/views/account/confirm.jade",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/models/account.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/views/operator/index.jade",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/views/account/index.jade",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/config/routes.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/models/version.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/controllers/app_version/index.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/views/user/index.jade",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/controllers/operator/index.js",
+		"/Users/ag/projects/misecolle/_src/misecolle-admin-tool/app/controllers/account/index.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/ag/projects/misecolle/_src/misecolle-admin-tool",
+			"/Users/ag/Desktop/misecolle/mkr-collected items/repos/_src/api-server/resources",
+			"/Users/ag/Desktop/mkr-collected items/repos/_src/api-server/resources",
+			"/Users/ag/Desktop/mkr-collected items/repos/_src/api-server/resource",
+			"/Users/ag/Desktop/mkr-collected items/repos/_src/api-server/node_modules/passport/lib/passport",
+			"/Users/ag/Desktop/mkr-collected items/repos/_src/api-server/node_modules/passport/lib/passpor",
+			"/Users/ag/Desktop/mkr-collected items/repos/_src/api-server/resources",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".add",
+			".Santa",
+			"xmas.",
+			"render",
+			"Director",
+			"backbone",
+			"							<dd class=\"icon\">\n\n							</dd>\n",
+			"<dd class=\"icon\">\n								\n							</dd>",
+			"copyright-bloc",
+			"list-content",
+			"<div class=\"search-bloc\">\n		<form action=\"/\" method=\"get\">サイト内検索　<input type=\"text\"> <input type=\"submit\" value=\"検索\"></form>\n	</div>",
+			"<li><a href=\"#\">よくあるご質問</a>　｜</li>",
+			"a",
+			"<h2 id=\"logo-company\"><img src=\"/img/logo-kaihatu.jpg\"></h2>",
+			"content",
+			"last",
+			"watch",
+			".css",
+			"ugilify\nuglify",
+			"ugilify",
+			"_bow",
+			"css",
+			"header",
+			"qs",
+			"watch",
+			"_bower_components",
+			"htmlmin",
+			"html",
+			"Environment :",
+			"Environment : development",
+			".log",
+			"v0.10.0-rc4",
+			"use",
+			"express",
+			");\n",
+			"for",
+			"product",
+			"Product",
+			"modelsPath",
+			"modelsPath ",
+			"connect.limit()",
+			"connect.multipart()",
+			"profile",
+			"isLoggedIn",
+			"ejs",
+			"user",
+			"ejs",
+			"Customer",
+			"local-signup",
+			"profile",
+			"ejs",
+			"User",
+			"user",
+			"Story",
+			"connect.multipart()",
+			"Product",
+			"reloadPort",
+			"port",
+			"Article",
+			"product",
+			"request",
+			"response",
+			"article",
+			"Product",
+			"articles",
+			"mongoose",
+			"<a href=\"/product.html\"><img src=\"/img/l/dummy01.jpg\" alt=\"\"></a>",
+			"dymmy",
+			"jquery",
+			"- ",
+			"・\n",
+			"・",
+			"- ",
+			"dummy1.jpg",
+			"dymmy16",
+			"dymmy15",
+			"font-fami",
+			"item",
+			"<img src=\"/img/p/dummy(.+).jpg\" alt=\"\">",
+			"<img src=\"/img/p/dummy().jpg\" alt=\"\">",
+			"<div class=\"col-sm-6 text-right item-detail\"><small>¥2500<br><small>GOAL: 500</small></small></div></div>",
+			"<div class=\"row item-info\">",
+			"980",
+			"item-info",
+			"980",
+			"mask-circle",
+			"<h2>PRODUCT NAME     <small>MENS   LADIES   ACCESORIES   LEATHER   FAIR TRADE</small></h2>",
+			"row.list-info",
+			"row list-info",
+			"container",
+			"<div class=\"col-sm-6\">Black</div>\n				<div class=\"col-sm-6 text-right item-detail\"><small>¥2500<br><small>GOAL: 500</small></small></div>",
+			"<div class=\"col-sm-6\">Black</div>\n								<div class=\"col-sm-6 text-right item-detail\"><small>¥2500<br><small>GOAL: 500</small></small></div>",
+			"<div class=\"progress progress-striped active\">\n			  	<div class=\"progress-bar\"  role=\"progressbar\" aria-valuenow=\"45\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 45%\">\n			  	  <span class=\"sr-only\">45% Complete</span>\n				  </div>\n			  </div>",
+			"<div class=\"progress-bar\"  role=\"progressbar\" aria-valuenow=\"45\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 45%\">\n			  	  <span class=\"sr-only\">45% Complete</span>\n				  </div>\n			  </div>",
+			"<div class=\"col-sm-6\">Black</div>",
+			"<div class=\"col-sm-6 text-right\">",
+			"<div class=\"col-sm-6 text-right\"><small>¥2500<br>GOAL: 500</small></div>",
+			"<div class=\"col-sm-6 text-right\">¥2500<br>GOAL: 500</div>",
+			"Blaack",
+			"<div class=\"col-sm-6\">¥2500<br>GOAL: 500</div>",
+			"text-center",
+			"button",
+			"footer",
+			"owl-next",
+			"next",
+			"owl-buttons",
+			"page",
+			"h2",
+			"16",
+			"bowe",
+			"ul",
+			"line_brake",
+			"//[Emmet]日本語変換確定の文字消えを防ぐ\ndisable_formatted_linebreak",
+			"li",
+			"a",
+			"{}",
+			"background",
+			"- ",
+			"jquery",
+			"bower_",
+			"bower ",
+			".js",
+			".hs",
+			"if",
+			"(\\#\\{.+\\})",
+			"console",
+			"smorking",
+			"console"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			".siro",
+			"NeKou.",
+			"							<dd class=\"icon\">\na\n							</dd>\n",
+			"<dd class=\"icon\">\n								a\n							</dd>",
+			"",
+			"<h2 id=\"logo-company\"><img src=\"/img/logo-sintokyo-group.jpg\"></h2>",
+			"<h2 id=\"logo-company\"><img src=\"/img/logo-logo-sintokyo-group.jpg.jpg\"></h2>",
+			"cart",
+			"Cart",
+			"jade",
+			"Customer",
+			"customer",
+			"Session",
+			"Customer",
+			"story",
+			"req",
+			"res",
+			"product",
+			"story",
+			"product",
+			"Story",
+			"Product",
+			"dummy",
+			"dummy16.jpg",
+			"dummy1",
+			"dummy15",
+			"<div class=\"col-md-12 text-center item-thumb\">\n					<img src=\"/img/p/dummy$1.jpg\" alt=\"\">\n				</div>",
+			"<div class=\"col-sm-6 text-right item-detail\"><small>¥2500<br><small>GOAL: 500</small></small></div>",
+			"",
+			"<h3>PRODUCT NAME     <small>MENS   LADIES   ACCESORIES   LEATHER   FAIR TRADE</small></h3>",
+			"<div class=\"row item-info\"><div class=\"col-sm-6\">Black</div>\n								<div class=\"col-sm-6 text-right item-detail\"><small>¥2500<br><small>GOAL: 500</small></small></div></div>",
+			"<div class=\"progress progress-striped active\">\n			  	<div class=\"progress-bar\"  role=\"progressbar\" aria-valuenow=\"45\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 45%\">\n			  	  <span class=\"sr-only\">45% Complete</span>\n				  </div>\n			  </div></div>",
+			"<div class=\"progress-bar\"  role=\"progressbar\" aria-valuenow=\"45\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 45%\">\n			  	  <span class=\"sr-only\">45% Complete</span>\n				  </div>\n			  </div></div>",
+			"<div class=\"item-info\"><div class=\"col-sm-6\">Black</div>",
+			"<div class=\"col-sm-6 text-right item-detail\">",
+			"<div class=\"col-sm-6 text-right\"><small>¥2500<br><small>GOAL: 500</small></small></div>",
+			"<div class=\"col-sm-6 text-right\"><small>¥2500<br>GOAL: 500</small></div>",
+			"Black",
+			"<div class=\"col-sm-6 text-right\">¥2500<br>GOAL: 500</div>",
+			"",
+			"\"$1\"",
+			"free_entry[",
+			"\"$1\"\n",
+			"\"$1\"",
+			"",
+			"UPDATE\n shop_genres\nSET\n misecolle_genre = $1\nWHERE\n genre_cd = $2;\n",
+			"UPDATE\n shop_genres\nSET\n misecolle_genre = $1\nWHERE\n genre_cd = $2\n",
+			"../img/",
+			"../js/",
+			"../css/",
+			"css/",
+			"js/",
+			"img/",
+			"'",
+			"=store$1 || \"記入なし\"",
+			"label.control-label.col-sm-3",
+			".form-grop",
+			"label.col-sm-3",
+			"p.col-sm-9",
+			"../../lib/pass",
+			"",
+			"../../config",
+			"",
+			"col-sm-3",
+			".col-md-9",
+			"",
+			"cd",
+			"res.",
+			"req, res",
+			"Couopon",
+			"res",
+			"req",
+			"",
+			"label.control-label.col-sm-3 ",
+			"Acc",
+			"misecolle",
+			"\"name\":",
+			"\"$1\"",
+			"\"name:\"$1\"}",
+			",",
+			"{\"id\":$1,\"name\":$2},\\n",
+			"\"id\":$1,\\n\"name\":$2",
+			",\\n",
+			"\"success\":\"true\"",
+			"cd",
+			"user",
+			"coupon",
+			"mypage",
+			"\"id\":\"$1\"",
+			"area"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/ag/projects/RULERS/AAT-NeKou/app/_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 1506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1399,
+								1399
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 32.0,
+						"translation.y": 366.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/ag/projects/RULERS/AAT-NeKou/app/js/main.js",
+					"settings":
+					{
+						"buffer_size": 3831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 301.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/ag/projects/RULERS/AAT-NeKou/.jekyll/models/rest.js",
+					"settings":
+					{
+						"buffer_size": 298776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298776,
+								298776
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 38682.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/ag/projects/RULERS/AAT-NeKou/.jekyll/models/walk.js",
+					"settings":
+					{
+						"buffer_size": 2012290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341253,
+								341253
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 43614.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/ag/projects/RULERS/AAT-NeKou/app/_scss/main.scss",
+					"settings":
+					{
+						"buffer_size": 6239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2772,
+								2772
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2166.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.jslint_result_view":
+	{
+		"height": 124.0
+	},
+	"output.sftp":
+	{
+		"height": 108.0
+	},
+	"replace":
+	{
+		"height": 461.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"app/_scss/main.scss"
+			],
+			[
+				"wal",
+				".jekyll/models/walk.js"
+			],
+			[
+				"res",
+				".jekyll/models/rest.js"
+			],
+			[
+				"de",
+				"app/_layouts/default.html"
+			],
+			[
+				"sc",
+				"app/_includes/scripts.html"
+			],
+			[
+				"ashina",
+				"app/js/ashiname.js"
+			],
+			[
+				"mai",
+				"app/js/main.js"
+			],
+			[
+				"layout",
+				"app/_layouts/default.html"
+			],
+			[
+				"head",
+				"app/_bower_components/jquery/test/data/headers.php"
+			],
+			[
+				"foote",
+				"app/_includes/footer.html"
+			],
+			[
+				"none",
+				"app/_layouts/none.html"
+			],
+			[
+				"d",
+				"app/_layouts/default.html"
+			],
+			[
+				"index",
+				".jekyll/index.html"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"main.",
+				".tmp/css/main.css"
+			],
+			[
+				"g",
+				"Gruntfile.js"
+			],
+			[
+				"policies",
+				"config/policies.js"
+			],
+			[
+				"local",
+				"config/local.js"
+			],
+			[
+				"conne",
+				"config/connections.js"
+			],
+			[
+				"pro",
+				"api/models/Product.js"
+			],
+			[
+				"gr",
+				"Gruntfile.js"
+			],
+			[
+				"appli",
+				"node_modules/sails/node_modules/express/lib/application.js"
+			],
+			[
+				"ex",
+				"config/express.js"
+			],
+			[
+				"poli",
+				"config/policies.js"
+			],
+			[
+				"authc",
+				"api/controllers/AuthController.js"
+			],
+			[
+				"auth",
+				"node_modules/grunt-contrib-clean/AUTHORS"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"loca",
+				"config/local.js"
+			],
+			[
+				"c",
+				"config/connections.js"
+			],
+			[
+				"route",
+				"config/routes.js"
+			],
+			[
+				"user",
+				"api/models/User.js"
+			],
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"mode",
+				"config/models.js"
+			],
+			[
+				"adap",
+				"node_modules/sails-disk/lib/adapter.js"
+			],
+			[
+				"stor",
+				"app/controllers/story.js"
+			],
+			[
+				"story",
+				"app/controllers/story.js"
+			],
+			[
+				"02",
+				"app/models/02_story.js"
+			],
+			[
+				"cutome",
+				"app/models/customer.js"
+			],
+			[
+				"cu",
+				"app/controllers/customer.js"
+			],
+			[
+				"prodct",
+				"app/models/01_product.js"
+			],
+			[
+				"produ",
+				"app/controllers/product.js"
+			],
+			[
+				"show",
+				"app/views/product/show.ejs"
+			],
+			[
+				"",
+				"app/controllers/product.js"
+			],
+			[
+				"index.e",
+				"app/views/index.ejs"
+			],
+			[
+				"in",
+				"lib/index.js"
+			],
+			[
+				"cuto",
+				"app/controllers/customer.js"
+			],
+			[
+				"cutomer",
+				"app/controllers/customer.js"
+			],
+			[
+				"app.",
+				"app.js"
+			],
+			[
+				"ap",
+				"app.js"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"custom",
+				"app/controllers/customer.js"
+			],
+			[
+				"custome",
+				"app/controllers/customer.js"
+			],
+			[
+				"sto",
+				"app/controllers/story.js"
+			],
+			[
+				"con",
+				"config/config.js"
+			],
+			[
+				"e",
+				"config/express.js"
+			],
+			[
+				"express",
+				"config/express.js"
+			],
+			[
+				"expre",
+				"config/express.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"mypage",
+				"app/views/mypage.ejs"
+			],
+			[
+				"customer",
+				"app/models/customer.js"
+			],
+			[
+				"custo",
+				"app/controllers/customer.js"
+			],
+			[
+				"my",
+				"app/views/mypage.ejs"
+			],
+			[
+				"profi",
+				"app/views/profile.ejs"
+			],
+			[
+				"pass",
+				"config/passport.js"
+			],
+			[
+				"tha",
+				"app/views/thanks.ejs"
+			],
+			[
+				"logi",
+				"app/views/login.ejs"
+			],
+			[
+				"login",
+				"app/views/login.ejs"
+			],
+			[
+				"ro",
+				"config/routes.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"exp",
+				"config/express.js"
+			],
+			[
+				"confi",
+				"config/config.js"
+			],
+			[
+				"sign",
+				"app/views/signup.ejs"
+			],
+			[
+				"profile",
+				"app/views/profile.jade"
+			],
+			[
+				"rou",
+				"config/routes.js"
+			],
+			[
+				"user.js",
+				"app/models/user.js"
+			],
+			[
+				"inde.jad",
+				"app/views/index.jade"
+			],
+			[
+				"inde",
+				"lib/index.js"
+			],
+			[
+				"passs",
+				"config/passport.js"
+			],
+			[
+				"config",
+				"config/config.js"
+			],
+			[
+				"ses",
+				"app/controllers/session.js"
+			],
+			[
+				"script",
+				"app/views/include/script.jade"
+			],
+			[
+				"home",
+				"app/controllers/home.js"
+			],
+			[
+				"ar",
+				"app/models/article.js"
+			],
+			[
+				"product.js",
+				"app/controllers/product.js"
+			],
+			[
+				"prom",
+				"app/models/promoter.js"
+			],
+			[
+				"list",
+				"app/list.html"
+			],
+			[
+				"scr",
+				"app/_includes/scripts.html"
+			],
+			[
+				"owl",
+				"app/_bower_components/OwlCarousel/owl-carousel/owl.theme.css"
+			],
+			[
+				"plu",
+				"app/js/plugins.js"
+			],
+			[
+				"normalize.css",
+				"app/_bower_components/normalize-css/normalize.css"
+			],
+			[
+				"amai",
+				"app/_scss/main.scss"
+			],
+			[
+				"footer.",
+				"app/_includes/footer.html"
+			],
+			[
+				"header",
+				"app/_includes/header.html"
+			],
+			[
+				"haede",
+				"node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/lib/entities/decode.json"
+			],
+			[
+				"footer",
+				"app/_includes/footer.html"
+			],
+			[
+				"main.sc",
+				"app/_scss/main.scss"
+			],
+			[
+				"main.js",
+				"app/js/main.js"
+			],
+			[
+				"defa",
+				"app/_layouts/default.html"
+			],
+			[
+				"history",
+				".jekyll/history.html"
+			],
+			[
+				"histo",
+				"app/history.html"
+			],
+			[
+				"owl-",
+				"app/_bower_components/OwlCarousel/owl-carousel/owl.carousel.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"bowerrc",
+				".bowerrc"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"spot",
+				"node_modules/node-spotify/src/spotify.js"
+			],
+			[
+				"sear",
+				"app/controllers/search.js"
+			],
+			[
+				"store_d",
+				"resources/store_detail.js"
+			],
+			[
+				"storede",
+				"resources/store_detail.js"
+			],
+			[
+				"misecolle.js",
+				"public/javascripts/misecolle.js"
+			],
+			[
+				"mise",
+				"resources/misecolle.js"
+			],
+			[
+				"genre",
+				"resources/genre.js"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"main.scss",
+				"app/_scss/main.scss"
+			],
+			[
+				"navi",
+				"app/_includes/page_navi.html"
+			],
+			[
+				"store_",
+				"resources/store_detail.js"
+			],
+			[
+				"mysql",
+				"libs/data/mysql.js"
+			],
+			[
+				"foot",
+				"app/_includes/footer.html"
+			],
+			[
+				"conce",
+				"app/concept.html"
+			],
+			[
+				"plug",
+				"app/js/plugins.js"
+			],
+			[
+				"def",
+				"app/_layouts/default.html"
+			],
+			[
+				"nor",
+				"app/_bower_components/normalize-css/normalize.css"
+			],
+			[
+				"main.css",
+				".tmp/css/main.css"
+			],
+			[
+				"main.c",
+				".tmp/css/main.css"
+			],
+			[
+				"scri",
+				"app/_includes/scripts.html"
+			],
+			[
+				"default",
+				"app/_layouts/default.html"
+			],
+			[
+				"main.j",
+				"app/js/main.js"
+			],
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"serve",
+				"node_modules/password-reset/example/web/server.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true
+}
